@@ -87,3 +87,9 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#Personal
+.md
+
+# does not ignore the README.md file
+!README.md
